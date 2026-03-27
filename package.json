@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "aliste-sdk": "github:alistetechnologies/AlisteSDK",
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "onEb":   "AA 06 B1 F2 00 01 D7 1E",
+    "offEb":  "AA 06 B1 F2 00 00 16 DE",
+    "onDg":   "AA 06 B1 F3 00 01 86 DE",
+    "offDg":  "AA 06 B1 F3 00 00 47 1E",
+    "onBoth":  "AA 06 B1 B9 00 00 66 C8",
+    "offBoth": "AA 06 B1 BB 00 00 C7 08",
+    "relayDefault": "AA 06 B1 BB 00 00 C7 08",
+    "clearOverload": "AA 06 B1 CC 00 00 77 12",
+    "clearBalance":  "AA 06 B1 BF 00 00 86 C9"
+}
